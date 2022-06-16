@@ -6,6 +6,8 @@
 
 https://colab.research.google.com/drive/14r1K0StkJTWTxGc6LB_NWUfBgd3jGq-f?usp=sharing
 
+Предсказание G-квадруплексов: https://colab.research.google.com/drive/1QDQc62CWivyC3Z6WB-LyC96Jt4AQSiQg?usp=sharing
+
 ### Список участников группы
 
 |index|Имя участника|Род|Ссылка на репозиторий|
