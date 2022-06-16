@@ -1,0 +1,1084 @@
+	Product	# Species	Genes	Mean zhscore	Max zhscore	Genes with z-dna
+805	3-hydroxyacyl-ACP dehydratase FabZ	36	41	92871.60773333332	138924.1	3
+990	DUF1002 domain-containing protein	25	25	41820.715800000005	198956.2	5
+1043	flagellar biosynthesis protein FlhB	25	25	33267.3405	138924.1	6
+417	ribose-phosphate diphosphokinase	45	45	22239.026919999997	211093.9	25
+389	Fe-S cluster assembly ATPase SufC	41	41	20083.018184	302785.5	25
+186	phosphoglycerate kinase	45	45	20045.92988	48804.94	10
+634	arsenate reductase (thioredoxin)	31	34	19765.945072727274	198956.2	11
+202	bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU	45	45	18833.482664	211093.9	25
+856	diacylglycerol kinase family protein	25	25	18055.370775000003	138924.1	8
+565	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	43	44	17859.253200000003	68804.91	4
+187	glyceraldehyde-3-phosphate dehydrogenase	45	61	15601.73840952381	211093.9	21
+621	aminotransferase class V-fold PLP-dependent enzyme	32	39	15550.844700000001	138924.1	10
+120	preprotein translocase subunit SecG	45	45	14628.384733333334	38833.58	3
+101	ACT domain-containing protein	33	34	14102.934666666668	38833.58	3
+792	acetolactate decarboxylase	26	28	13827.657500000001	49376.54	8
+913	MFS transporter	24	27	13265.491042857142	138924.1	14
+1077	DNA-3-methyladenine glycosylase I	29	32	11980.7174	38833.58	5
+767	phosphoribosylamine--glycine ligase	42	42	11972.422657894738	198956.2	19
+594	DNA-directed RNA polymerase subunit omega	45	45	11906.745714285715	38833.58	14
+1068	FAD:protein FMN transferase	26	31	11462.847116666666	38833.58	6
+750	prephenate dehydrogenase	30	30	11296.943499999998	94590.41	13
+422	excinuclease ABC subunit UvrA	45	45	11030.016243750002	198956.2	32
+149	nitroreductase family protein	27	29	10569.303481818182	68804.91	11
+582	class I SAM-dependent methyltransferase	43	43	10034.443725000001	74987.35	8
+961	NAD-dependent malic enzyme 4	26	29	9834.416736363637	50885.97	11
+1079	diphosphomevalonate decarboxylase	25	25	9540.059953846152	68804.91	13
+181	methionine ABC transporter ATP-binding protein	38	55	9389.208483333334	138924.1	18
+241	phospho-N-acetylmuramoyl-pentapeptide-transferase	42	42	9297.404425	27872.66	8
+964	septum formation initiator family protein	30	30	8985.870212500002	28780.5	8
+438	DHH family phosphoesterase	44	44	8598.669372	74987.35	25
+1064	mevalonate kinase	25	25	8540.17927	68804.91	10
+295	50S ribosomal protein L20	45	45	8485.756	8485.756	5
+171	(d)CMP kinase	45	45	8189.9739875	28780.5	8
+839	ABC transporter permease	27	30	7935.021349999999	13713.99	4
+640	LL-diaminopimelate aminotransferase	30	31	7910.938490000002	68804.91	10
+334	DNA-dependent RNA polymerase auxiliary subunit epsilon family protein	35	35	7771.799233333334	27872.66	6
+105	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	42	42	7738.934988888887	65884.11	18
+739	beta-phosphoglucomutase	33	40	7712.751872727273	74987.35	11
+131	50S ribosomal protein L13	45	45	7694.299437500001	46858.52	16
+873	DNA topoisomerase IV subunit B	30	30	7626.308739130436	138924.1	23
+879	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	32	38	7430.6687249999995	46858.52	8
+69	30S ribosomal protein S11	45	45	7178.355429999999	16271.57	10
+19	glutamine-hydrolyzing GMP synthase	42	42	6926.062705882352	38833.58	17
+979	carboxylesterase	24	24	6753.320854545454	38833.58	11
+58	carbohydrate ABC transporter permease	27	34	6716.671666666666	13713.99	3
+940	deoxyribonuclease IV	39	40	6675.2330062500005	74987.35	16
+473	dephospho-CoA kinase	45	45	6649.604292307695	50885.97	13
+907	PTS glucose transporter subunit IIA	26	34	6565.992	6565.992	1
+212	peptide chain release factor 1	45	45	6472.650325	38833.58	24
+14	trigger factor	45	45	6455.078	66470.78	17
+36	aspartate carbamoyltransferase catalytic subunit	45	46	6331.204461538461	48804.94	13
+595	guanylate kinase	45	45	6329.059063636364	38833.58	22
+650	ABC transporter ATP-binding protein	25	25	6321.86005	27872.66	6
+683	DUF1054 domain-containing protein	30	30	6271.555177777777	28780.5	9
+942	pyridoxal phosphate-dependent aminotransferase	29	41	6264.62586	74987.35	15
+603	threonine/serine exporter family protein	30	35	6250.879825000001	27872.66	8
+576	energy-coupling factor transporter transmembrane protein EcfT	45	50	6194.347955555556	28780.5	18
+284	cysteine--tRNA ligase	43	43	6115.927308000001	38833.58	25
+667	DEAD/DEAH box helicase	35	35	6068.727618181819	74987.35	22
+130	30S ribosomal protein S9	45	45	5994.070482608694	46858.52	23
+666	Gfo/Idh/MocA family oxidoreductase	33	38	5989.628925000001	74987.35	16
+1074	GNAT family N-acetyltransferase	28	33	5978.153679999999	23787.35	5
+987	ATP-dependent protease subunit HslV	31	31	5961.069874999999	13713.99	4
+607	exodeoxyribonuclease III	34	34	5939.183933333334	38833.58	12
+831	A/G-specific adenine glycosylase	26	26	5909.810566666667	38833.58	21
+360	signal peptidase II	37	39	5875.021955555555	38833.58	9
+85	30S ribosomal protein S17	45	45	5841.353714285716	17253.57	14
+397	RNA methyltransferase	45	45	5747.742141666667	27872.66	12
+795	glycerophosphodiester phosphodiesterase	35	46	5733.767142857142	50885.97	14
+306	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	40	40	5618.556408695653	48804.94	23
+49	ribosome biogenesis GTPase YlqF	45	45	5531.901817647058	68804.91	17
+859	acetylglutamate kinase	27	27	5523.059257142856	28780.5	7
+908	metal ABC transporter ATP-binding protein	26	26	5519.7822166666665	28780.5	12
+1030	glycerol-3-phosphate responsive antiterminator	26	26	5503.316266666668	13713.99	3
+269	transcriptional regulator SpxA	35	36	5447.522936363636	13713.99	11
+555	30S ribosomal protein S20	45	45	5428.032337500001	13072.54	8
+347	YbjQ family protein	34	35	5230.8820749999995	18247.98	4
+636	metal-sensitive transcriptional regulator	32	40	5219.317	8485.756	3
+142	tRNA dihydrouridine synthase DusB	42	48	5197.435879166666	37878.25	24
+354	excinuclease ABC subunit UvrB	44	44	5140.65485	28780.5	24
+324	ribosome small subunit-dependent GTPase A	45	45	4958.36394	21732.38	10
+1075	ribose-5-phosphate isomerase RpiA	28	33	4926.950957142857	23787.35	7
+183	bifunctional acetaldehyde-CoA/alcohol dehydrogenase	28	29	4897.2401625	27872.66	16
+890	transporter substrate-binding domain-containing protein	36	37	4836.3625250000005	13713.99	8
+600	hypothetical protein	35	35	4693.60773	27872.66	10
+261	tRNA adenosine(34) deaminase TadA	45	45	4687.968935000001	28780.5	20
+289	6-phosphofructokinase	40	40	4673.573223529412	27872.66	17
+623	translation initiation factor IF-2	45	45	4652.590714814814	21732.38	27
+296	50S ribosomal protein L35	45	45	4644.0500833333335	8485.756	6
+469	Na+/H+ antiporter subunit A	25	25	4624.522414285714	13713.99	7
+151	cold-shock protein	36	65	4605.770266666667	12723.6	3
+892	phosphate signaling complex protein PhoU	34	36	4579.8276375000005	29467.88	8
+714	ornithine carbamoyltransferase	33	35	4558.270253333333	28780.5	15
+191	ABC transporter ATP-binding protein	29	29	4491.962025	38833.58	12
+944	MerR family transcriptional regulator	28	28	4487.139381249999	18247.98	16
+433	chromosome segregation protein SMC	45	45	4486.357436363637	65884.11	22
+1061	GtrA family protein	25	27	4456.79	6680.689	4
+652	ABC transporter ATP-binding protein	39	50	4433.650463636364	68804.91	22
+196	bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	44	44	4422.130742857143	50885.97	21
+86	50S ribosomal protein L29	45	45	4411.096877777778	8922.646	9
+172	1-acyl-sn-glycerol-3-phosphate acyltransferase	45	53	4395.183766666667	16271.57	9
+715	diaminopimelate decarboxylase	41	41	4344.9054	49376.54	16
+1058	SPFH/Band 7/PHB domain protein	24	24	4343.5548	21732.38	7
+945	ABC transporter permease	35	35	4326.726921052632	49376.54	19
+222	polyribonucleotide nucleotidyltransferase	30	30	4325.813115384615	38833.58	13
+588	YqeG family HAD IIIA-type phosphatase	41	41	4266.6382	8485.756	5
+981	DNA replication initiation control protein YabA	25	25	4245.055155555555	28780.5	9
+504	ABC transporter ATP-binding protein	34	35	4211.297058333334	18247.98	12
+898	cell division protein ZapA	25	25	4203.963250000001	10635.4	8
+884	NAD(P)/FAD-dependent oxidoreductase	30	30	4188.258042857143	28780.5	14
+968	VanZ family protein	24	26	4139.594333333333	8922.646	3
+329	cytochrome d ubiquinol oxidase subunit II	29	29	4119.934992857144	28780.5	14
+44	F0F1 ATP synthase subunit alpha	45	45	4108.946423809523	18247.98	21
+102	GTPase ObgE	45	45	4107.6193875	65884.11	24
+875	AEC family transporter	24	24	4083.0398999999998	13713.99	4
+338	ATP-dependent DNA helicase RecG	44	44	4078.8700299999996	28780.5	20
+355	50S ribosomal protein L11 methyltransferase	45	45	4075.7312090909095	16739.64	11
+1008	hydroxymethylbilane synthase	24	24	4028.5768799999996	8697.46	5
+876	ATP-binding cassette domain-containing protein	30	33	4019.1877777777772	28780.5	18
+82	50S ribosomal protein L5	45	45	4014.158323529412	16271.57	17
+836	ornithine--oxo-acid transaminase	32	37	4009.7451615384625	28780.5	13
+671	3-isopropylmalate dehydratase small subunit	28	28	3999.0494428571433	17718.99	7
+982	septum site-determining protein MinD	35	35	3965.881236363636	28780.5	11
+328	cytochrome ubiquinol oxidase subunit I	34	34	3937.7984571428574	29467.88	14
+545	DEAD/DEAH box helicase	34	34	3836.8511368421055	28780.5	19
+596	fibronectin-binding domain-containing protein	44	44	3836.1289318181825	28780.5	22
+670	3-isopropylmalate dehydratase large subunit	29	32	3836.0391199999995	17718.99	15
+127	EamA family transporter	24	28	3827.177125	13713.99	8
+3	helicase-exonuclease AddAB subunit AddA	40	40	3791.7941916666664	38833.58	24
+733	YpmS family protein	30	30	3763.0735	12723.6	4
+133	acetyl-CoA C-acetyltransferase	28	28	3743.7668399999993	13713.99	10
+1015	ABC transporter substrate-binding protein	29	31	3730.3705999999997	13713.99	5
+813	glutamate-5-semialdehyde dehydrogenase	35	38	3728.96522173913	38833.58	23
+1082	amino acid ABC transporter ATP-binding protein	24	24	3684.2595142857144	8922.646	7
+592	tryptophan--tRNA ligase	45	45	3671.537765217392	13713.99	23
+123	ATP-dependent protease ATP-binding subunit ClpC	45	45	3668.756786666667	68804.91	30
+519	arginine--tRNA ligase	45	48	3613.7477750000003	16271.57	28
+639	carbon-nitrogen family hydrolase	28	28	3613.6783333333333	13713.99	12
+597	metal ABC transporter permease	32	37	3540.29072	10894.72	5
+751	3-phosphoshikimate 1-carboxyvinyltransferase	37	37	3537.758689473685	21732.38	19
+790	gluconokinase	35	37	3533.3470391304354	13713.99	23
+526	nucleotidyltransferase	45	45	3530.5640444444443	13713.99	18
+146	DNA gyrase subunit A	45	45	3525.5975416666665	38833.58	24
+868	penicillin-binding protein 1A	31	32	3515.5234923076923	28780.5	13
+631	Nif3-like dinuclear metal center hexameric protein	24	24	3513.4972799999996	13713.99	5
+709	metallophosphoesterase	32	32	3508.301336363636	27872.66	11
+340	acyl carrier protein	45	46	3497.3800333333334	13713.99	6
+914	galactokinase	29	32	3497.154370588236	38833.58	17
+141	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	33	33	3495.7309875	16770.32	8
+297	translation initiation factor IF-3	45	45	3486.2463300000004	8485.756	20
+977	CBS domain-containing protein	26	26	3465.2009166666667	10894.72	6
+781	peptide-methionine (R)-S-oxide reductase MsrB	34	35	3450.0480000000002	8485.756	3
+170	energy-coupling factor ABC transporter ATP-binding protein	28	30	3441.6287	17718.99	10
+508	UTP--glucose-1-phosphate uridylyltransferase GalU	45	59	3428.86898	13713.99	15
+691	imidazole glycerol phosphate synthase subunit HisH	35	35	3411.520376923077	18247.98	13
+314	alanine dehydrogenase	25	27	3380.97638	13713.99	5
+646	ABC transporter ATP-binding protein/permease	37	41	3371.4602700000005	28780.5	20
+939	MMPL family transporter	30	30	3360.8036538461533	28780.5	13
+1012	GTP 3',8-cyclase MoaA	27	28	3359.9378272727276	8323.257	11
+662	DNA polymerase III subunit delta'	45	45	3353.637455	38833.58	20
+572	DNA polymerase III subunit gamma/tau	45	45	3347.5829166666667	28780.5	18
+59	sugar ABC transporter permease	30	32	3336.9977599999997	13713.99	5
+312	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA	45	45	3307.4093235294117	28780.5	17
+307	HAD family hydrolase	25	26	3300.9324285714288	8922.646	7
+339	phosphate acyltransferase PlsX	44	44	3297.9597599999997	16770.32	15
+15	methionine adenosyltransferase	45	45	3284.88229047619	38833.58	21
+548	thioredoxin-disulfide reductase	39	44	3275.1939722222223	13713.99	18
+737	M20/M25/M40 family metallo-hydrolase	27	30	3249.8336375	16271.57	8
+672	AI-2E family transporter	24	31	3237.148077777778	12723.6	9
+182	ABC transporter permease	41	52	3193.768588888889	13713.99	9
+84	50S ribosomal protein L14	45	45	3154.8733	17253.57	18
+216	DNA mismatch repair protein MutS	45	45	3154.5416280000004	16770.32	25
+67	50S ribosomal protein L17	45	45	3140.393271428572	13713.99	7
+217	DNA mismatch repair endonuclease MutL	45	45	3121.639554545454	38833.58	22
+806	acetyl-CoA carboxylase biotin carboxyl carrier protein	34	37	3121.3070000000002	8922.646	4
+399	30S ribosome-binding factor RbfA	45	45	3115.524066666667	8922.646	9
+994	HslU--HslV peptidase ATPase subunit	31	31	3112.022957142857	13713.99	14
+513	ParB/RepB/Spo0J family partition protein	44	44	3109.4285399999994	27872.66	15
+132	ABC transporter ATP-binding protein/permease	34	35	3104.746461111111	38833.58	18
+40	ribonucleoside-diphosphate reductase subunit alpha	37	39	3104.588937037037	38833.58	27
+1005	peptide deformylase	27	27	3099.909628571429	6565.992	7
+370	GTPase Era	45	45	3082.089626666667	28780.5	15
+478	30S ribosomal protein S12	45	45	3080.1594999999998	16770.32	15
+562	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	43	43	3076.424575	8922.646	16
+930	3-ketoacyl-ACP reductase	34	38	3075.4101461538457	13713.99	13
+985	transcriptional regulator NrdR	35	35	3075.3198615384613	13072.54	13
+144	DNA replication/repair protein RecF	45	45	3065.1151625	18180.95	16
+867	glycine--tRNA ligase subunit beta	25	25	3051.993921428571	13713.99	14
+388	Fe-S cluster assembly protein SufD	34	34	3051.776752631579	13713.99	19
+919	fructose-bisphosphate aldolase	40	46	3040.7320733333336	27872.66	15
+434	ribonuclease III	45	45	3018.236292307691	13713.99	13
+825	NAD-dependent deacylase	32	32	3016.5642000000003	13713.99	6
+230	purine-nucleoside phosphorylase	27	28	3006.2032833333337	13713.99	6
+457	type I methionyl aminopeptidase	45	56	3003.3862222222224	13713.99	9
+598	metal ABC transporter ATP-binding protein	31	31	3002.037975	10894.72	8
+674	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	26	33	2997.3185857142853	13713.99	14
+416	aminoacyl-tRNA hydrolase	45	45	2985.7850200000003	10894.72	10
+679	co-chaperone GroES	44	44	2978.061875	8323.257	4
+1026	septation regulator SpoVG	25	30	2971.0613125	8323.257	8
+764	ribokinase	30	35	2970.6828363636364	21732.38	11
+549	prolipoprotein diacylglyceryl transferase	40	42	2967.6279111111107	10272.33	9
+0	Glu/Leu/Phe/Val dehydrogenase	33	40	2957.939293333334	13713.99	15
+1028	anti-sigma factor antagonist	25	36	2948.9929	6565.992	5
+243	cell division protein FtsA	38	38	2943.801342857143	8922.646	7
+195	deoxyribose-phosphate aldolase	34	35	2937.06077	16770.32	10
+821	response regulator transcription factor	25	25	2919.53848	3428.529	5
+866	trehalose operon repressor	27	28	2915.8021333333327	13713.99	9
+768	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	42	42	2910.0325	28780.5	14
+247	division/cell wall cluster transcriptional repressor MraZ	44	44	2889.1240833333336	8922.646	12
+682	phosphatidylglycerophosphatase A	31	33	2855.022166666667	8485.756	6
+532	transcriptional regulator MntR	33	35	2846.399225	6832.989	8
+1042	flagellar biosynthesis protein FlhA	25	25	2843.765966666667	13713.99	9
+219	recombination regulator RecX	40	40	2841.530708333333	13713.99	12
+415	transcription-repair coupling factor	45	45	2841.1974035714293	28780.5	28
+832	DHA2 family efflux MFS transporter permease subunit	28	34	2840.0027466666666	8922.646	15
+895	copper homeostasis protein CutC	27	29	2833.215033333334	16271.57	9
+294	30S ribosomal protein S18	45	45	2831.6322	8485.756	11
+493	D-glycerate dehydrogenase	34	39	2810.835425	16739.64	16
+578	energy-coupling factor ABC transporter ATP-binding protein	45	45	2788.0866727272733	6565.992	11
+724	ATP-binding cassette domain-containing protein	38	38	2783.3919142857144	6017.919	14
+483	RNase adapter RapZ	39	39	2781.8325636363634	13713.99	11
+874	calcium-transporting ATPase	26	27	2758.5621933333327	10894.72	15
+604	heavy metal translocating P-type ATPase	44	60	2750.930234482759	38833.58	29
+801	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	40	40	2749.5857	13713.99	25
+602	threonine/serine exporter family protein	36	43	2743.6714	13713.99	8
+506	ABC transporter permease	33	33	2741.5826500000003	13713.99	10
+206	16S rRNA (uracil(1498)-N(3))-methyltransferase	45	45	2739.954444444444	16739.64	9
+637	NAD(P)-dependent oxidoreductase	29	32	2738.7305333333334	6565.992	3
+753	3-dehydroquinate synthase	32	32	2717.4441833333335	13072.54	12
+567	alanine--tRNA ligase	45	45	2716.874585714286	23787.35	28
+952	SMC family ATPase	30	30	2697.4635266666664	21732.38	15
+668	2-isopropylmalate synthase	29	29	2689.76315625	8485.756	16
+550	HPr(Ser) kinase/phosphatase	45	45	2687.29564	10272.33	5
+1035	ATP-binding protein	39	39	2680.883813333334	13713.99	15
+46	F0F1 ATP synthase subunit B	44	44	2679.7893764705886	8922.646	17
+145	DNA topoisomerase (ATP-hydrolyzing) subunit B	45	45	2676.6347400000004	18180.95	30
+287	aspartate--tRNA ligase	45	45	2664.439413043478	13713.99	23
+333	NAD(P)/FAD-dependent oxidoreductase	33	41	2663.5617199999997	15418.56	20
+1053	P-loop NTPase	24	24	2661.761175	13713.99	8
+689	histidinol dehydrogenase	34	34	2647.7774954545453	23787.35	22
+852	histidinol-phosphate transaminase	36	39	2645.089966666667	8922.646	12
+70	30S ribosomal protein S13	45	45	2639.2067636363636	16271.57	11
+518	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	40	41	2638.523	8485.756	5
+794	DUF1934 domain-containing protein	40	40	2634.07788	10616.46	10
+139	pyrroline-5-carboxylate reductase	44	49	2630.11118	13939.35	10
+386	SUF system NifU family Fe-S cluster assembly protein	44	44	2628.411977777778	3428.529	9
+864	glycine betaine/L-proline ABC transporter ATP-binding protein ProV	30	32	2624.6821090909084	8922.646	22
+677	PTS mannose/fructose/sorbose transporter subunit IIC	24	24	2598.82045	6565.992	4
+619	universal stress protein	32	33	2592.6256099999996	13713.99	10
+656	undecaprenyl-diphosphate phosphatase	33	34	2580.2114666666666	3428.529	3
+315	NADP-dependent phosphogluconate dehydrogenase	33	34	2561.681326666667	13713.99	15
+560	cysteine desulfurase	39	40	2557.977025	13713.99	16
+693	imidazole glycerol phosphate synthase subunit HisF	35	35	2554.9143	13713.99	8
+160	Hsp33 family molecular chaperone HslO	45	50	2552.977923076923	13072.54	13
+1032	flagellar motor protein MotB	25	32	2552.09208	3428.529	5
+112	30S ribosomal protein S4	45	45	2550.500864705882	6750.528	17
+207	cell division regulator GpsB	35	35	2526.801057142857	10616.46	7
+32	dihydroorotate dehydrogenase electron transfer subunit	30	30	2520.5822111111106	13713.99	9
+481	type II secretion system F family protein	35	35	2520.559381818182	8485.756	11
+227	endopeptidase La	25	25	2518.9814866666666	13072.54	15
+793	SprT family protein	30	30	2514.6814	13713.99	11
+470	phosphoglucosamine mutase	45	45	2494.2662800000003	13072.54	15
+755	shikimate dehydrogenase	29	34	2487.7848222222224	13713.99	9
+157	TatD family hydrolase	45	45	2485.6037421052633	9721.919	19
+114	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA	44	44	2475.6103000000003	8922.646	15
+56	N-acetylglucosamine-6-phosphate deacetylase	43	51	2470.78093	18180.95	20
+1024	replication initiation and membrane attachment family protein	30	30	2470.530894117647	12723.6	17
+264	DNA repair protein RadC	44	46	2466.57125	13713.99	8
+584	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) YqeK	45	45	2465.622214285714	13713.99	14
+95	30S ribosomal protein S10	45	45	2464.3021117647054	8323.257	17
+345	RIP metalloprotease RseP	45	45	2457.9867733333326	13713.99	15
+42	F0F1 ATP synthase subunit beta	44	44	2454.713041666667	13713.99	24
+159	type III pantothenate kinase	30	30	2448.58683	8922.646	10
+26	nicotinate phosphoribosyltransferase	40	45	2438.8517555555554	13713.99	27
+317	DUF4479 domain-containing tRNA-binding protein	34	34	2433.0666300000003	13713.99	10
+911	6,7-dimethyl-8-ribityllumazine synthase	30	30	2431.23576	8922.646	5
+238	exodeoxyribonuclease VII large subunit	45	45	2429.6526562500003	13713.99	16
+373	DNA translocase FtsK	45	45	2421.7664080000004	13713.99	25
+304	heptaprenyl diphosphate synthase component II	35	45	2406.1393	12723.6	16
+703	phosphate ABC transporter ATP-binding protein PstB	39	44	2396.342229411765	8485.756	17
+847	YidC family membrane integrase SpoIIIJ	40	41	2391.528836363636	16271.57	11
+454	polysaccharide biosynthesis protein	35	39	2384.7986388888885	13072.54	18
+883	methionine biosynthesis PLP-dependent protein	24	24	2369.770073333333	8323.257	15
+356	adenylosuccinate lyase	44	44	2360.136868181818	8411.479	22
+377	elongation factor P	45	45	2356.6034266666666	7973.084	15
+7	glutamine--fructose-6-phosphate transaminase (isomerizing)	45	45	2355.781719047619	13713.99	21
+303	adenylosuccinate synthase	44	44	2338.9639	8922.646	27
+154	UDP-glucose 4-epimerase GalE	34	37	2335.8287071428576	13713.99	14
+669	3-isopropylmalate dehydrogenase	27	27	2330.7412333333336	2752.447	6
+775	phosphoribosylaminoimidazolesuccinocarboxamide synthase	41	41	2330.6343333333334	3428.529	3
+305	16S rRNA (guanine(527)-N(7))-methyltransferase RsmG	45	45	2329.1180588235293	13713.99	17
+137	RNA-binding S4 domain-containing protein	45	45	2321.599666666667	3428.529	3
+882	tyrosine protein phosphatase	33	36	2309.66989	8323.257	10
+583	ribosome silencing factor	41	41	2304.7237666666665	13713.99	12
+43	F0F1 ATP synthase subunit gamma	44	44	2300.2930647058824	13713.99	17
+610	ABC transporter ATP-binding protein/permease	37	37	2299.7968521739135	27872.66	23
+83	50S ribosomal protein L24	45	45	2297.237333333333	3428.529	3
+1017	calcium-translocating P-type ATPase, SERCA-type	26	28	2281.0136375	10616.46	8
+1029	stage 0 sporulation family protein	25	25	2276.2537199999997	8485.756	5
+254	phosphoglycerate dehydrogenase	38	44	2275.578757142857	8922.646	28
+421	Asp23/Gls24 family envelope stress response protein	45	45	2272.45625	3428.529	10
+931	ABC transporter permease	25	26	2270.26732	4553.39	5
+725	tryptophan synthase subunit beta	32	33	2263.9625	12351.13	14
+501	HIT family protein	45	46	2259.2008153846155	13713.99	13
+420	DAK2 domain-containing protein	45	45	2258.8446956521734	17253.57	23
+521	PolC-type DNA polymerase III	43	43	2253.392293103448	13713.99	29
+593	class I SAM-dependent RNA methyltransferase	45	45	2248.2922533333335	8922.646	15
+644	biotin--[acetyl-CoA-carboxylase] ligase	33	36	2241.9679499999997	8922.646	10
+376	50S ribosomal protein L28	45	45	2238.067207142857	12723.6	14
+826	LytR family transcriptional regulator	34	51	2236.1493153846154	10894.72	13
+723	transcriptional repressor LexA	43	43	2229.6942545454544	6910.52	11
+869	bifunctional metallophosphatase/5'-nucleotidase	30	30	2223.7409941176475	16770.32	17
+27	YitT family protein	38	42	2223.4142300000003	8922.646	10
+78	50S ribosomal protein L18	45	45	2208.2909157894737	8697.46	19
+613	alpha-ketoacid dehydrogenase subunit beta	38	45	2204.655515789473	8323.257	19
+505	ABC transporter permease	28	28	2202.90369	13713.99	10
+346	lipoate--protein ligase	37	45	2201.5190875	8485.756	8
+194	pyrimidine-nucleoside phosphorylase	33	33	2193.384628571429	13713.99	14
+97	RNA-binding protein	45	45	2193.0893933333336	13713.99	15
+803	acetyl-CoA carboxylase, carboxyltransferase subunit beta	29	31	2189.5618375	8575.808	16
+248	16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH	45	45	2182.932211111111	10894.72	9
+810	nitronate monooxygenase	36	45	2182.11622	8323.257	20
+1016	ATP phosphoribosyltransferase	31	31	2179.5519	3428.529	6
+786	exodeoxyribonuclease VII small subunit	41	41	2178.3285	2183.574	2
+368	formate--tetrahydrofolate ligase	43	43	2174.5487631578944	13713.99	19
+428	30S ribosomal protein S1	38	41	2173.6577500000003	4325.003	8
+1045	flagellar type III secretion system pore protein FliP	25	25	2173.083	2173.083	1
+330	thiol reductant ABC exporter subunit CydD	34	34	2168.2292250000005	13713.99	12
+926	NAD-dependent malic enzyme	25	31	2163.595225	6090.891	12
+398	rhodanese-like domain-containing protein	36	36	2161.11835	4914.146	10
+628	ATP-dependent chaperone ClpB	30	30	2159.319	4860.206	14
+375	tyrosine recombinase XerC	30	30	2147.10499	8323.257	10
+498	nucleotide exchange factor GrpE	45	45	2144.5782444444444	8485.756	9
+720	inositol monophosphatase family protein	30	31	2136.9338875000003	3428.529	8
+690	imidazoleglycerol-phosphate dehydratase HisB	35	35	2134.82528	6408.923	20
+769	phosphoribosylglycinamide formyltransferase	42	42	2131.2982	8323.257	8
+442	cell wall metabolism sensor histidine kinase WalK	41	41	2129.359476190476	13713.99	21
+731	RNA-binding transcriptional accessory protein	37	37	2124.0492750000003	13713.99	20
+756	tetratricopeptide repeat protein	30	30	2121.8400090909095	13713.99	11
+752	chorismate synthase	33	33	2119.247276470588	10894.72	17
+283	CTP synthase	44	44	2113.5087518518517	13713.99	27
+912	Y-family DNA polymerase	25	27	2112.7247933333333	17253.57	15
+209	primosomal protein N'	45	45	2111.5398096774197	21732.38	31
+463	type 2 isopentenyl-diphosphate Delta-isomerase	35	35	2109.2598857142857	3428.529	7
+391	excinuclease ABC subunit UvrC	45	45	2109.0896380952377	16271.57	21
+971	DUF1146 family protein	28	28	2106.176	3428.529	2
+277	peptidylprolyl isomerase	36	42	2101.5370666666668	3428.529	6
+571	YbaB/EbfC family nucleoid-associated protein	40	41	2097.5761	3428.529	2
+999	asparagine synthase (glutamine-hydrolyzing)	27	33	2089.2414375	13713.99	16
+268	S1-like domain-containing RNA-binding protein	40	40	2087.3974842105263	13713.99	19
+456	dipeptidase PepV	40	40	2085.8009333333334	13713.99	24
+659	GTPase HflX	40	44	2067.0894210526317	13713.99	19
+412	tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA	45	45	2066.7416249999997	13713.99	20
+697	insulinase family protein	35	35	2057.7950600000004	13713.99	15
+573	ABC-F family ATP-binding cassette domain-containing protein	37	37	2057.174515789474	8156.898	19
+687	6-phospho-beta-glucosidase BglA	28	43	2048.31651875	10894.72	16
+371	glutamate racemase	41	41	2041.176661538462	13713.99	13
+783	PDZ domain-containing protein	29	29	2040.8467624999998	10616.46	8
+891	amino acid ABC transporter substrate-binding protein	27	32	2033.71335	10894.72	10
+267	ribonuclease Z	38	38	2027.5930294117647	12723.6	17
+1060	YisL family protein	25	25	2027.5367999999999	8323.257	8
+320	RNA polymerase sigma factor RpoD	45	45	2025.4519375	16770.32	24
+435	class I SAM-dependent methyltransferase	35	35	2020.9615099999999	3428.529	10
+808	3-oxoacyl-[acyl-carrier-protein] reductase	38	39	2020.9159285714286	8782.157	14
+929	glycosyltransferase family 2 protein	31	37	2019.5860100000004	8323.257	10
+673	homoserine O-succinyltransferase	25	26	2018.9321666666665	8323.257	9
+395	methionyl-tRNA formyltransferase	45	45	2005.8820411764702	8323.257	17
+840	ABC transporter ATP-binding protein	29	30	2003.6329181818185	13713.99	11
+905	ComF family protein	40	40	2002.5787222222223	5351.021	9
+136	YebC/PmpR family DNA-binding transcriptional regulator	45	57	2001.0043142857144	13713.99	14
+29	orotate phosphoribosyltransferase	45	45	1994.7761181818182	10894.72	11
+21	aquaporin family protein	33	42	1992.1223454545454	8323.257	11
+889	O-acetylhomoserine aminocarboxypropyltransferase/cysteine synthase	24	24	1991.779690909091	8485.756	11
+957	WecB/TagA/CpsF family glycosyltransferase	30	31	1991.0288333333338	3428.529	9
+920	iron-containing alcohol dehydrogenase	32	36	1983.0156187500002	13713.99	16
+1072	type 1 glutamine amidotransferase	29	29	1981.040475	2659.79	4
+954	glycogen/starch/alpha-glucan phosphorylase	24	25	1979.6014714285716	3428.529	7
+293	single-stranded DNA-binding protein	37	49	1979.4197333333334	3428.529	3
+841	aldo/keto reductase	27	41	1971.2124157894739	13713.99	19
+197	D-aminoacyl-tRNA deacylase	45	45	1968.8686999999998	3428.529	10
+316	glucose-6-phosphate dehydrogenase	31	31	1965.4372857142862	8323.257	14
+804	acetyl-CoA carboxylase biotin carboxylase subunit	30	31	1957.7990874999998	13713.99	16
+57	ROK family glucokinase	36	37	1953.6844571428571	5652.202	14
+309	Xaa-Pro peptidase family protein	37	38	1950.2742687500001	13713.99	16
+888	biotin transporter BioY	35	47	1948.7009625	4545.701	8
+988	lipopolysaccharide assembly protein LapA domain-containing protein	26	26	1943.957	3428.529	3
+520	proline--tRNA ligase	43	43	1941.6066478260868	10272.33	23
+341	50S ribosomal protein L1	45	45	1939.31226	2752.447	5
+364	phosphoenolpyruvate--protein phosphotransferase	45	46	1925.1911842105267	8922.646	19
+252	exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase	31	38	1924.9055	6565.992	5
+833	acetolactate synthase large subunit	36	48	1924.2716909090902	8922.646	22
+2	ABC transporter ATP-binding protein	40	45	1922.5553999999997	8922.646	14
+748	PhoH family protein	36	36	1920.0963875	4831.423	16
+17	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	37	37	1917.65724	8156.898	15
+502	purine-nucleoside phosphorylase	25	25	1916.0899142857143	2779.551	7
+649	ABC transporter permease	41	50	1912.4784375000002	13713.99	16
+589	PBP1A family penicillin-binding protein	36	41	1903.8886466666668	6565.992	15
+989	methionine gamma-lyase family protein	33	37	1899.6437600000002	8323.257	10
+918	maltose O-acetyltransferase	30	32	1895.4922900000001	3428.529	10
+419	endonuclease MutS2	45	45	1894.8141500000002	15418.56	24
+1046	flagellar motor switch phosphatase FliY	25	25	1893.9549000000002	2997.09	2
+104	protein translocase subunit SecDF	30	30	1891.3981699999997	10894.72	10
+1051	flagellar basal body rod protein FlgC	25	25	1890.0296250000001	4860.206	8
+838	LysR family transcriptional regulator	28	28	1887.871375	3428.529	8
+393	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN	30	30	1887.2096142857147	6565.992	14
+1004	tetratricopeptide repeat protein	25	25	1880.98349	3428.529	10
+516	uridine kinase	33	33	1878.37286	4545.701	10
+452	type I glutamate--ammonia ligase	41	42	1877.7297473684212	8485.756	19
+531	thymidylate synthase	35	35	1875.8976157894738	13713.99	19
+300	class I SAM-dependent methyltransferase	34	34	1875.0101166666664	3428.529	12
+563	GNAT family N-acetyltransferase	39	40	1873.6136500000002	3428.529	4
+1010	RNA polymerase sporulation sigma factor SigH	35	35	1866.630411111111	5485.32	9
+319	DNA primase	44	44	1858.7208850000002	13713.99	20
+402	transcription termination factor NusA	43	43	1857.3733249999998	10894.72	24
+943	lipoate--protein ligase family protein	28	28	1854.0361166666669	6565.992	12
+291	redox-regulated ATPase YchF	45	45	1849.746859090909	8485.756	22
+344	phosphatidate cytidylyltransferase	45	45	1846.9418000000003	3428.529	3
+743	serine hydroxymethyltransferase	43	43	1840.5116555555553	13713.99	18
+409	ribonuclease Y	45	45	1839.2765904761904	9721.919	21
+661	cyclic-di-AMP receptor	40	40	1839.2224124999998	3428.529	8
+612	G5 and 3D domain-containing protein	27	28	1830.086	3661.11	3
+878	penicillin-binding protein 2	30	31	1829.0177764705882	8323.257	17
+447	catabolite control protein A	31	31	1827.1402000000003	3428.529	10
+337	L-serine ammonia-lyase, iron-sulfur-dependent, subunit alpha	34	34	1826.9507999999998	4576.539	6
+39	ribonucleotide-diphosphate reductase subunit beta	37	39	1823.0529142857142	7973.084	7
+853	glycine--tRNA ligase subunit alpha	25	25	1822.1877285714288	3428.529	14
+11	uracil-DNA glycosylase	37	41	1821.204753846154	9492.083	13
+763	histidine phosphatase family protein	30	35	1819.14931	6565.992	10
+190	helix-turn-helix domain-containing protein	25	26	1818.0117	2752.447	2
+798	acylphosphatase	26	26	1818.0117	2752.447	2
+383	recombinase RecA	45	45	1817.847335714286	4553.39	14
+30	orotidine-5'-phosphate decarboxylase	35	35	1812.2310384615384	10894.72	13
+226	ATP-dependent protease ATP-binding subunit ClpX	45	45	1803.4450608695654	5351.021	23
+527	endolytic transglycosylase MltG	45	45	1801.8291125	5351.021	8
+124	amino acid ABC transporter ATP-binding protein	34	55	1794.3438736842102	8922.646	19
+107	3'-5' exoribonuclease YhaM	35	35	1791.8195999999998	3428.529	6
+655	hemolysin III family protein	32	34	1788.6037500000002	8485.756	12
+554	YihY/virulence factor BrkB family protein	34	34	1787.1887	6565.992	8
+1052	flagellar basal body rod protein FlgB	25	25	1776.4891999999995	4860.206	5
+394	16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB	45	45	1775.8100692307692	8323.257	26
+242	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	45	45	1770.2982294117649	6910.52	17
+552	manganese-dependent inorganic pyrophosphatase	35	35	1768.5322625	8485.756	8
+923	bifunctional 3,4-dihydroxy-2-butanone-4-phosphate synthase/GTP cyclohydrolase II	25	25	1766.472977777778	8922.646	9
+492	tyrosine--tRNA ligase	40	40	1765.6362545454547	3403.051	11
+605	TVP38/TMEM64 family protein	28	29	1762.5397714285716	2752.447	7
+822	response regulator transcription factor	28	28	1762.0281857142857	6565.992	7
+444	ECF transporter S component	45	45	1761.3502	6017.919	6
+1001	DNA-3-methyladenine glycosylase	30	30	1760.9467444444444	6565.992	9
+321	GAF domain-containing protein	32	32	1759.4461222222221	4831.423	9
+657	cell division ATP-binding protein FtsE	29	29	1759.05504	3858.662	5
+608	Cof-type HAD-IIB family hydrolase	24	28	1757.7195333333332	3428.529	3
+972	phosphopentomutase	28	28	1756.8784416666667	6680.689	12
+740	aldehyde dehydrogenase family protein	24	30	1755.8276642857145	3428.529	14
+379	adenine phosphoribosyltransferase	45	45	1750.9931894736844	8156.898	19
+1020	DUF72 domain-containing protein	24	24	1749.8856857142857	3428.529	7
+538	UMP kinase	45	45	1748.1662333333334	8485.756	18
+163	dihydrolipoyl dehydrogenase	40	56	1746.6682142857146	4553.39	21
+762	aldo/keto reductase family protein	27	33	1744.336011111111	8485.756	9
+736	AzlC family ABC transporter permease	29	29	1738.8084666666666	3428.529	3
+382	DNA helicase PcrA	45	45	1734.0485923076924	13713.99	26
+66	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	40	40	1732.5775458333335	6565.992	24
+969	mannose/fructose/sorbose PTS transporter subunit IIA	24	24	1731.3362285714286	3428.529	7
+162	IMP dehydrogenase	45	45	1729.2191375	6680.689	16
+800	ABC transporter ATP-binding protein/permease	34	36	1728.8883642857145	8485.756	14
+153	leucine--tRNA ligase	45	45	1727.9830714285715	8922.646	21
+622	Stk1 family PASTA domain-containing Ser/Thr kinase	44	44	1725.9629166666666	4270.735	18
+1073	Mur ligase family protein	29	29	1723.2617000000002	2779.551	7
+411	tRNA guanosine(34) transglycosylase Tgt	45	45	1723.2119444444445	7973.084	18
+1	metal ABC transporter permease	37	47	1722.6005571428573	6565.992	7
+221	radical SAM family heme chaperone HemW	33	33	1720.6670466666667	10272.33	15
+760	pyridoxal phosphate-dependent aminotransferase	35	35	1720.3837555555556	3993.322	9
+165	demethylmenaquinone methyltransferase	32	37	1718.76896	3428.529	10
+262	lactonase family protein	35	36	1715.5748909090914	8782.157	11
+18	cytidine deaminase	37	39	1715.502375	8323.257	8
+799	LTA synthase family protein	28	37	1714.9980615384616	6090.891	13
+147	competence/damage-inducible protein A	35	35	1714.5715500000003	13713.99	14
+173	cysteine desulfurase	36	36	1714.2369909090908	6680.689	11
+79	50S ribosomal protein L6	45	45	1712.7546000000002	8697.46	20
+551	phage holin family protein	30	30	1706.9158333333332	3428.529	3
+342	50S ribosomal protein L11	43	43	1700.6607999999999	3858.662	19
+450	threonine--tRNA ligase	45	46	1700.3114277777777	6910.52	18
+611	diacylglycerol kinase	36	36	1699.5160199999998	8323.257	20
+663	M15 family metallopeptidase	27	28	1696.9787800000001	3428.529	5
+220	translation elongation factor 4	45	45	1695.3660652173908	6565.992	23
+845	PLP-dependent aminotransferase family protein	35	46	1691.1321769230767	8636.407	13
+692	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase	35	35	1690.3686285714284	4270.735	7
+460	CPBP family intramembrane metalloprotease	26	26	1689.003228571429	6565.992	7
+633	cation transporter	32	35	1686.29146	3428.529	5
+620	Mini-ribonuclease 3	43	43	1685.2621909090913	8323.257	11
+941	ferredoxin	27	27	1681.9013857142854	5351.021	7
+385	Fe-S cluster assembly protein SufB	41	41	1677.2833928571429	9721.919	28
+601	F0F1 ATP synthase subunit C	38	38	1675.4558499999998	2779.551	2
+797	DUF948 domain-containing protein	35	35	1673.1908	2679.36	3
+653	aspartate ammonia-lyase	38	52	1671.9308307692309	4545.701	26
+702	phosphate ABC transporter permease PstA	39	45	1669.806692857143	3428.529	14
+1006	PepSY domain-containing protein	25	25	1668.0937333333331	3333.338	3
+308	peptide MFS transporter	26	28	1666.893125	3858.662	8
+336	L-serine ammonia-lyase, iron-sulfur-dependent subunit beta	34	34	1666.3460499999999	3403.051	4
+537	ribosome recycling factor	45	45	1664.91465	3858.662	8
+950	nucleoside triphosphate pyrophosphohydrolase	24	24	1664.302	2752.447	3
+579	purine permease	35	38	1663.386275	6565.992	8
+439	ABC transporter ATP-binding protein	39	41	1662.8913545454545	4084.735	11
+126	transcription termination factor Rho	32	32	1660.2705764705881	13713.99	17
+1014	molybdenum cofactor biosynthesis protein MoaB	27	27	1654.0792444444444	3428.529	9
+916	1-phosphofructokinase	40	40	1653.4817222222223	3428.529	9
+967	AzlD domain-containing protein	28	28	1653.0258000000001	2752.447	3
+843	GntR family transcriptional regulator	27	27	1651.6550666666665	2943.461	3
+100	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD	45	45	1635.8155000000004	5652.202	21
+129	valine--tRNA ligase	45	45	1631.2530529411765	6680.689	17
+900	D-2-hydroxyacid dehydrogenase	28	29	1630.0357454545453	3428.529	11
+651	ABC transporter ATP-binding protein	26	29	1626.08905	6565.992	10
+507	trypsin-like peptidase domain-containing protein	45	60	1623.478325	4553.39	8
+351	rRNA pseudouridine synthase	45	45	1621.2764666666667	6565.992	9
+298	DNA-directed RNA polymerase subunit beta'	45	45	1614.904609090909	8323.257	33
+437	50S ribosomal protein L9	45	45	1613.20306	6565.992	10
+233	peptidase T	39	39	1612.00976	4576.539	5
+934	protein jag	34	34	1608.36715	3428.529	10
+387	cysteine desulfurase	39	39	1606.846457692308	3428.529	26
+6	type 1 glutamine amidotransferase	28	30	1606.83615	3993.322	4
+401	YlxR family protein	45	45	1606.835009090909	3428.529	11
+515	U32 family peptidase	25	25	1605.0300625	3428.529	8
+585	nicotinate-nucleotide adenylyltransferase	42	42	1601.4238818181816	4914.146	11
+488	branched-chain amino acid transport system II carrier protein	33	44	1599.9945	3428.529	9
+1037	YerC/YecD family TrpR-related protein	25	25	1594.9956666666667	2752.447	3
+37	bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR	45	48	1594.1288357142857	3428.529	14
+229	acyltransferase family protein	30	30	1590.1344214285716	8323.257	14
+34	carbamoyl phosphate synthase small subunit	42	43	1587.5959666666668	3428.529	9
+155	UDP-N-acetylmuramate--L-alanine ligase	45	45	1587.2816318181822	8485.756	22
+8	ATP-dependent Clp endopeptidase proteolytic subunit ClpP	45	45	1583.3995454545454	3428.529	11
+577	energy-coupling factor ABC transporter ATP-binding protein	45	45	1582.263175	4876.735	8
+681	amino acid permease	24	24	1582.04853	3428.529	10
+998	GntR family transcriptional regulator	24	28	1580.68315	3428.529	8
+111	YceD family protein	44	44	1578.1505714285715	2659.79	7
+712	GTP pyrophosphokinase family protein	35	35	1577.8763166666665	4576.539	6
+927	alpha-glycosidase	28	35	1576.3956846153849	3428.529	13
+632	thioredoxin family protein	33	36	1576.3152500000003	3333.338	6
+642	GNAT family N-acetyltransferase	31	34	1576.0005083333335	3946.785	12
+896	LemA family protein	29	30	1572.1680666666664	2659.79	6
+260	DNA-processing protein DprA	45	45	1570.8878	4263.555	5
+848	NADH-dependent flavin oxidoreductase	30	38	1567.0721631578947	3661.11	19
+1056	HD family phosphohydrolase	24	24	1566.2417	2752.447	4
+779	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	27	27	1563.6368736842107	12723.6	19
+1062	magnesium transporter CorA family protein	25	31	1561.349183333333	3428.529	6
+627	RluA family pseudouridine synthase	35	35	1558.3242181818182	2752.447	11
+735	glutathione peroxidase	30	33	1558.274583333333	2679.36	6
+60	sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC	34	38	1555.9134333333336	3428.529	15
+392	Stp1/IreP family PP2C-type Ser/Thr phosphatase	45	45	1554.8075166666667	8323.257	12
+586	ribosome assembly RNA-binding protein YhbY	45	45	1549.6955666666665	3428.529	6
+789	gluconate:H+ symporter	24	25	1549.68923	8485.756	10
+378	tRNA (guanosine(46)-N7)-methyltransferase TrmB	40	40	1547.6351	2752.447	5
+903	dTDP-glucose 4,6-dehydratase	26	28	1545.6354066666668	6565.992	15
+135	class I SAM-dependent methyltransferase	33	33	1542.1783428571428	3051.765	7
+313	ribonuclease M5	40	40	1541.94485	4576.539	16
+617	alanine racemase	43	54	1538.5372894736843	3428.529	19
+802	acetyl-CoA carboxylase carboxyl transferase subunit alpha	27	27	1537.93344	2962.843	10
+993	TIGR00282 family metallophosphoesterase	27	27	1532.4517714285714	4860.206	14
+746	aspartate kinase	36	42	1531.5008250000003	3428.529	20
+414	YqgQ family protein	35	35	1531.1659499999998	2395.506	4
+476	elongation factor G	45	45	1530.0992347826086	12723.6	23
+569	transketolase	34	42	1529.5241666666668	8323.257	18
+270	isoleucine--tRNA ligase	45	46	1524.9080416666666	8782.157	24
+645	aspartate-semialdehyde dehydrogenase	43	43	1522.6159714285714	8922.646	14
+482	DNA polymerase I	45	45	1521.1788777777779	5652.202	18
+282	tRNA lysidine(34) synthetase TilS	44	44	1520.8958388888889	3428.529	18
+705	MBOAT family protein	37	41	1518.8465916666667	3428.529	12
+686	Na+/H+ antiporter	30	30	1513.9144714285715	3428.529	14
+855	asparaginase	26	26	1513.6807400000002	3428.529	10
+251	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	43	43	1512.9639875	6565.992	16
+45	F0F1 ATP synthase subunit delta	44	44	1512.9044000000001	2943.461	6
+915	DeoR/GlpR family DNA-binding transcription regulator	37	37	1512.571411111111	3428.529	9
+459	anaerobic ribonucleoside-triphosphate reductase activating protein	30	30	1511.5746	2943.461	5
+253	NAD(P)/FAD-dependent oxidoreductase	25	25	1509.2758000000003	3428.529	13
+726	anthranilate phosphoribosyltransferase	29	29	1506.8804	3428.529	10
+510	glucose-6-phosphate isomerase	39	39	1505.8012666666666	4615.4	15
+148	tRNA threonylcarbamoyladenosine dehydratase	25	25	1505.2504	3428.529	6
+225	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	44	45	1503.4392000000003	8922.646	18
+311	metal-sulfur cluster assembly factor	34	38	1501.276	3428.529	4
+63	chromosomal replication initiator protein DnaA	44	44	1500.675389655172	13713.99	29
+886	PadR family transcriptional regulator	27	33	1499.95925	2173.083	2
+951	ribose 5-phosphate isomerase B	31	36	1498.5339062500002	2752.447	16
+757	GNAT family N-acetyltransferase	25	29	1496.6431666666667	2164.383	3
+925	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD	30	30	1494.658075	5652.202	12
+278	cardiolipin synthase	37	37	1494.20618	3661.11	15
+624	CvpA family protein	27	27	1490.57625	3428.529	4
+819	HAMP domain-containing histidine kinase	26	28	1489.2514636363635	3428.529	11
+279	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD	35	35	1486.2240500000003	3993.322	22
+496	peptide deformylase	35	37	1484.48815	3428.529	4
+93	50S ribosomal protein L4	45	45	1482.087885	3428.529	20
+643	o-succinylbenzoate--CoA ligase	26	26	1480.5873461538463	3428.529	13
+274	RidA family protein	34	37	1475.1237500000002	3428.529	4
+405	GIY-YIG nuclease family protein	39	39	1469.7452444444446	2779.551	9
+384	fumarylacetoacetate hydrolase family protein	29	32	1468.1176500000001	3428.529	10
+22	MetQ/NlpA family ABC transporter substrate-binding protein	32	46	1467.2298928571429	8323.257	14
+259	GNAT family N-acetyltransferase	31	31	1465.823981818182	4545.701	11
+1054	flagellar protein export ATPase FliI	24	24	1463.8285000000003	3993.322	6
+827	type II toxin-antitoxin system endoribonuclease NdoA	35	35	1462.2236076923075	6680.689	13
+958	UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)	38	41	1460.1281363636363	3428.529	11
+234	translational GTPase TypA	45	45	1459.4759125	3661.11	16
+928	ATP phosphoribosyltransferase regulatory subunit	34	34	1457.678194117647	3428.529	17
+332	tRNA pseudouridine(38-40) synthase TruA	45	45	1456.754675	3428.529	20
+1023	pyruvate carboxylase	24	24	1455.4262555555554	4914.146	18
+791	MurR/RpiR family transcriptional regulator	30	36	1454.035514285714	6565.992	14
+910	UDP-glucose--hexose-1-phosphate uridylyltransferase	24	28	1453.5530294117648	3428.529	17
+495	serine--tRNA ligase	45	47	1449.273210526316	3428.529	19
+811	ketoacyl-ACP synthase III	35	50	1448.2113111111112	6565.992	18
+1081	DUF1634 domain-containing protein	27	27	1442.635	2173.083	2
+475	elongation factor Tu	44	44	1441.2423333333334	2779.551	9
+323	DNA repair protein RecN	44	44	1439.9158363636363	3661.11	11
+400	YlxQ family RNA-binding protein	39	39	1438.607490909091	3428.529	11
+543	tRNA pseudouridine(55) synthase TruB	45	45	1434.6420133333331	3855.439	15
+727	indole-3-glycerol phosphate synthase TrpC	30	30	1433.8539700000001	3428.529	10
+696	rod shape-determining protein MreC	40	40	1432.6138333333336	2752.447	6
+525	DNA-binding protein WhiA	45	45	1429.1010999999999	4914.146	15
+479	lysine--tRNA ligase	45	45	1426.8681538461537	8922.646	13
+33	carbamoyl-phosphate synthase large subunit	43	49	1426.7287583333334	13713.99	24
+812	HD domain-containing protein	31	31	1422.5412749999998	3858.662	12
+348	site-specific tyrosine recombinase XerD	45	45	1420.1982166666664	3428.529	18
+851	oxygen-insensitive NADPH nitroreductase	35	43	1419.2477666666668	2761.45	15
+857	DnaD domain-containing protein	30	30	1419.1032857142857	3428.529	7
+468	glutamate--tRNA ligase	41	41	1416.6790650000003	5652.202	20
+719	helicase-exonuclease AddAB subunit AddB	35	35	1414.138231818182	4553.39	22
+1018	transcription repressor NadR	27	27	1413.02872	3428.529	5
+1055	low molecular weight protein arginine phosphatase	24	24	1411.2097333333331	1733.503	3
+4	DEAD/DEAH box helicase	33	33	1409.8978166666666	3428.529	12
+1069	hydroxymethylglutaryl-CoA synthase family protein	27	29	1408.0555181818183	3428.529	11
+738	LD-carboxypeptidase	33	39	1404.0445599999998	3428.529	10
+1007	gamma-glutamyl-gamma-aminobutyrate hydrolase family protein	33	41	1403.260711111111	2779.551	9
+704	D-alanine--poly(phosphoribitol) ligase subunit DltA	30	30	1403.1192727272728	3428.529	11
+917	PTS fructose transporter subunit IIABC	38	45	1402.9420764705883	6565.992	17
+280	ATP-dependent zinc metalloprotease FtsH	45	45	1402.3585249999999	2761.45	24
+749	shikimate kinase	33	37	1399.1520833333334	3858.662	6
+556	DNA polymerase III subunit delta	37	37	1398.7534333333333	2752.447	6
+81	30S ribosomal protein S14	35	35	1394.7130000000002	3051.765	8
+449	primosomal protein DnaI	34	34	1394.4198454545456	3428.529	11
+184	phosphopyruvate hydratase	45	46	1394.3310526315788	3428.529	19
+286	histidine--tRNA ligase	43	43	1392.951675	3591.704	16
+815	M3 family oligoendopeptidase	25	25	1391.120635	6565.992	20
+365	putative DNA-binding protein	44	44	1385.95	2752.447	3
+239	polyprenyl synthetase family protein	45	45	1384.3268692307693	4831.423	13
+487	HD domain-containing protein	38	39	1383.9646380952381	6565.992	21
+772	phosphoribosylformylglycinamidine synthase subunit PurL	42	42	1382.494096	3428.529	25
+785	M42 family metallopeptidase	27	28	1382.3048250000002	3135.789	8
+185	triose-phosphate isomerase	40	40	1382.21895	6408.923	16
+870	Xaa-Pro peptidase family protein	30	30	1380.5447444444444	2779.551	9
+363	phosphocarrier protein HPr	41	44	1379.6275227272724	4171.37	22
+947	FMN-dependent NADH-azoreductase	28	41	1378.7846000000002	2752.447	10
+509	S-ribosylhomocysteine lyase	37	37	1375.8035166666668	2659.79	6
+240	MBL fold metallo-hydrolase	30	31	1374.5716833333333	2091.083	6
+536	DUF896 domain-containing protein	31	31	1373.9217	3051.765	7
+290	pyruvate kinase	45	46	1373.7902272727272	6680.689	22
+1011	cyclic pyranopterin monophosphate synthase MoaC	26	26	1369.8247000000001	3428.529	12
+177	phenylalanine--tRNA ligase subunit alpha	45	45	1369.7268368421053	3881.305	19
+1013	molybdopterin molybdotransferase MoeA	26	28	1366.50095	3428.529	8
+208	bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC	45	45	1366.3246388888888	3428.529	18
+491	RluA family pseudouridine synthase	43	43	1365.113547368421	3428.529	19
+695	rod shape-determining protein	40	40	1363.6290210526317	3661.11	19
+465	DegV family protein	34	34	1361.39151	3428.529	10
+250	dihydropteroate synthase	33	33	1359.0445	4576.539	14
+728	phosphoribosylanthranilate isomerase	27	27	1358.3906000000002	2761.45	7
+500	molecular chaperone DnaJ	45	45	1358.34783	5351.021	20
+626	ABC transporter permease	33	34	1357.6816000000001	3428.529	11
+546	cysteine synthase A	34	37	1355.2952875	2957.985	8
+335	ribonuclease J1	41	43	1353.2474692307692	3039.246	13
+5	ribosome-associated translation inhibitor RaiA	45	45	1352.66556	3428.529	5
+54	cadmium-translocating P-type ATPase	26	30	1352.124635294118	2752.447	17
+776	5-(carboxyamino)imidazole ribonucleotide synthase	39	39	1350.028590909091	3428.529	11
+566	aminotransferase	42	58	1349.7533666666666	3428.529	18
+707	D-alanyl-lipoteichoic acid biosynthesis protein DltD	27	27	1345.2249000000002	2752.447	4
+10	helix-turn-helix transcriptional regulator	29	29	1342.5088666666668	3428.529	6
+694	ATP-dependent Clp protease ATP-binding subunit	27	27	1342.4423000000002	3428.529	10
+761	ATP-dependent DNA helicase DinG	30	30	1342.1161791666666	3993.322	24
+894	methylated-DNA--[protein]-cysteine S-methyltransferase	41	49	1338.9429222222223	3428.529	9
+814	glutamate 5-kinase	33	37	1338.0348375	4553.39	8
+193	ABC transporter substrate-binding protein	31	31	1335.3586363636366	3428.529	11
+744	homoserine dehydrogenase	36	36	1334.826342857143	3428.529	14
+35	dihydroorotase	45	45	1333.9843360000002	2962.843	25
+128	peptidoglycan editing factor PgeF	24	24	1332.5047000000002	2752.447	6
+62	DNA polymerase III subunit beta	45	45	1331.101441666667	2761.45	12
+211	thymidine kinase	40	40	1328.9197875	2943.461	8
+432	signal recognition particle-docking protein FtsY	45	45	1328.697707142857	3403.051	14
+117	L-lactate permease	24	25	1325.2909	1886.732	4
+410	preprotein translocase subunit YajC	45	46	1324.0120000000002	2752.447	8
+533	ATP-dependent RecD-like DNA helicase	45	45	1320.4275518518518	3428.529	27
+664	deoxynucleoside kinase	31	38	1319.9976285714288	3428.529	7
+1059	response regulator transcription factor	26	26	1319.8249727272726	3428.529	11
+716	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase	39	40	1318.7172866666665	3428.529	15
+436	replicative DNA helicase	45	45	1317.2525142857141	6565.992	21
+680	1,4-dihydroxy-2-naphthoate polyprenyltransferase	34	44	1315.3042	3428.529	10
+119	ribonuclease R	45	45	1311.3386962962963	6565.992	27
+854	anthranilate synthase component I family protein	27	38	1310.7815384615385	3135.789	13
+654	dUTP diphosphatase	32	34	1308.58535	3428.529	6
+407	dTMP kinase	45	45	1306.1901466666668	3174.797	15
+591	peptide chain release factor 2	45	45	1304.9363636363637	2183.574	11
+12	ferrochelatase	31	34	1301.174875	3428.529	12
+1034	2,3-bisphosphoglycerate-independent phosphoglycerate mutase	25	25	1297.4415	3514.935	11
+780	DivIVA domain-containing protein	40	40	1295.5228000000002	2752.447	8
+973	helix-turn-helix domain-containing protein	30	30	1295.3680200000001	3428.529	15
+299	DNA-directed RNA polymerase subunit beta	45	45	1293.7551533333333	3661.11	30
+266	NUDIX hydrolase	44	44	1293.05981875	4914.146	16
+353	D-alanine--D-alanine ligase	42	42	1292.3448111111113	3428.529	9
+358	asparagine--tRNA ligase	40	41	1291.533253846154	3174.797	13
+228	ribosome biogenesis GTP-binding protein YihA/YsxC	45	45	1288.89115	2752.447	8
+494	AI-2E family transporter	30	34	1285.8239749999998	2779.551	8
+381	NAD-dependent DNA ligase LigA	45	45	1280.427523529412	6090.891	17
+745	homoserine kinase	40	40	1280.0199105263157	3428.529	19
+665	aminopeptidase	29	29	1279.9663249999999	3428.529	8
+362	Holliday junction branch migration DNA helicase RuvB	45	45	1279.22473	3428.529	20
+350	SMC-Scp complex subunit ScpB	45	45	1276.33282	2943.461	5
+285	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	45	45	1273.9705600000002	3428.529	15
+824	cation diffusion facilitator family transporter	30	30	1273.7215333333334	2752.447	9
+258	response regulator transcription factor	37	55	1270.4856615384617	3428.529	13
+717	N-acetyldiaminopimelate deacetylase	31	31	1267.7085200000001	4914.146	20
+606	4-hydroxy-tetrahydrodipicolinate synthase	42	45	1267.0442	3428.529	13
+256	ABC transporter ATP-binding protein	24	32	1265.3251500000001	3428.529	8
+557	DNA internalization-related competence protein ComEC/Rec2	35	35	1264.35290625	3428.529	16
+349	segregation/condensation protein A	44	44	1261.8036200000001	3428.529	10
+897	adaptor protein MecA	29	29	1259.8484	2779.551	8
+367	tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL	45	45	1258.784410526316	3104.952	19
+72	translation initiation factor IF-1	45	45	1258.0035777777778	2761.45	9
+178	phenylalanine--tRNA ligase subunit beta	45	45	1256.2976681818184	2752.447	22
+51	ribonuclease J	35	35	1255.5311411764706	3428.529	17
+484	YvcK family protein	44	44	1253.2938727272726	4914.146	11
+765	adenine deaminase	24	24	1251.6568384615387	3428.529	13
+408	fructose-6-phosphate aldolase	30	30	1251.356142857143	2752.447	7
+887	YhgE/Pip domain-containing protein	25	29	1250.83806	4860.206	10
+52	DNA polymerase IV	44	44	1250.4255214285715	2779.551	14
+1003	rod shape-determining protein MreD	30	30	1249.9849749999998	2752.447	8
+80	30S ribosomal protein S8	45	45	1248.571288888889	2752.447	9
+949	glycerate kinase	35	37	1247.8453266666666	3428.529	15
+701	phosphate ABC transporter permease subunit PstC	39	45	1247.137045	3428.529	20
+201	hemolysin family protein	34	55	1244.647988235294	3428.529	17
+1009	porphobilinogen synthase	24	24	1244.0407545454545	3428.529	11
+970	NAD(P)-dependent oxidoreductase	26	29	1243.5244769230771	3428.529	13
+1071	DUF956 family protein	24	24	1243.0443666666667	3428.529	6
+773	phosphoribosylformylglycinamidine synthase subunit PurQ	35	35	1242.0962615384617	2779.551	13
+327	sulfite exporter TauE/SafE family protein	32	32	1238.63311	2761.45	10
+1031	flagellar motor stator protein MotA	25	31	1238.2480333333333	2143.653	6
+511	nucleoid occlusion protein	36	36	1238.19381	4876.735	10
+992	oligosaccharide flippase family protein	35	35	1233.2823818181819	2606.229	11
+935	glycerol kinase GlpK	28	35	1232.0418153846153	3428.529	13
+472	ABC transporter ATP-binding protein	41	41	1231.32366	2752.447	10
+871	DNA repair exonuclease	28	28	1229.7988272727273	3428.529	11
+23	argininosuccinate synthase	40	40	1223.5497500000001	2752.447	16
+966	ABC transporter ATP-binding protein	27	30	1220.4656375	3428.529	8
+807	beta-ketoacyl-ACP synthase II	35	35	1219.0310238095237	2943.461	21
+310	alpha/beta hydrolase	30	36	1218.5547222222222	2752.447	18
+322	TlyA family RNA methyltransferase	45	45	1216.3599714285715	3428.529	7
+842	ABC transporter ATP-binding protein	30	34	1215.9893900000002	2890.859	10
+850	glycosyltransferase family 2 protein	27	29	1215.4355625	3333.338	8
+174	tRNA 4-thiouridine(8) synthase ThiI	35	35	1215.2785384615383	2752.447	13
+609	peptide chain release factor 3	35	35	1210.7584400000003	2752.447	15
+974	energy-coupled thiamine transporter ThiT	33	33	1210.20378	1737.612	5
+55	glucosamine-6-phosphate deaminase	38	40	1209.7802636363638	2779.551	11
+205	membrane protein insertase YidC	35	36	1207.2554846153846	3858.662	13
+231	phospho-sugar mutase	45	49	1206.7632619047622	3428.529	21
+403	ribosome maturation factor RimP	44	44	1200.8152166666666	2659.79	6
+68	DNA-directed RNA polymerase subunit alpha	45	45	1200.0614333333333	3333.338	9
+203	CBS domain-containing protein	24	24	1199.6528272727273	3403.051	11
+754	bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase	33	35	1197.3150142857144	3428.529	14
+257	sensor histidine kinase	37	53	1196.4188	1737.612	8
+880	CpsD/CapB family tyrosine-protein kinase	33	48	1194.2038125	2407.153	8
+372	XTP/dITP diphosphatase	42	42	1193.5911777777778	3428.529	9
+92	50S ribosomal protein L23	45	45	1192.8637230769232	3428.529	13
+425	HU family DNA-binding protein	45	47	1191.593109090909	2091.083	11
+872	DNA topoisomerase IV subunit A	33	33	1190.5988833333333	3428.529	24
+271	phosphatase PAP2 family protein	36	41	1189.8110363636363	2541.412	11
+53	tRNA (adenine(22)-N(1))-methyltransferase TrmK	45	45	1185.2486333333334	2962.843	6
+41	F0F1 ATP synthase subunit epsilon	44	44	1184.4003846153848	3428.529	13
+688	histidinol-phosphatase HisJ	26	26	1180.5996615384615	2752.447	13
+1067	PFL family protein	26	26	1177.258223076923	3661.11	13
+87	50S ribosomal protein L16	45	45	1177.0953249999998	2492.419	16
+570	recombination mediator RecR	45	45	1176.65025	2752.447	6
+118	SsrA-binding protein SmpB	45	45	1173.0756153846153	3428.529	13
+109	NAD(P)-dependent oxidoreductase	36	37	1172.98916	3428.529	10
+782	NAD(P)H-hydrate dehydratase	39	39	1172.59839375	2943.461	16
+963	L-aspartate oxidase	30	33	1170.366775	3428.529	16
+273	bifunctional cystathionine gamma-lyase/homocysteine desulfhydrase	28	33	1170.35674	3051.765	10
+390	acetate kinase	37	47	1167.6006631578948	3428.529	19
+166	thiamine phosphate synthase	36	40	1167.5807133333333	3403.051	15
+544	transcriptional repressor	31	31	1166.02454	2779.551	5
+648	ABC transporter permease	36	41	1162.5341	2752.447	6
+235	zinc metallopeptidase	37	37	1162.137975	3428.529	8
+276	DNA-formamidopyrimidine glycosylase	35	35	1160.4019823529413	2924.216	17
+158	ABC transporter ATP-binding protein	28	31	1159.7527571428573	2091.083	7
+38	diadenylate cyclase CdaA	45	45	1157.4233600000002	2945.877	15
+975	DsbA family protein	30	30	1157.19943	2752.447	10
+885	DEAD/DEAH box helicase	35	35	1154.3377095238095	6680.689	21
+960	1-deoxy-D-xylulose-5-phosphate synthase	29	29	1151.9383846153846	3428.529	13
+369	rRNA maturation RNase YbeY	45	45	1150.50036	4545.701	10
+534	RluA family pseudouridine synthase	45	45	1149.0216	3858.662	16
+213	peptide chain release factor N(5)-glutamine methyltransferase	44	44	1147.594675	2183.574	12
+246	TerC family protein	27	34	1145.3398	2409.1	5
+948	exonuclease SbcCD subunit D	37	37	1145.1934588235292	3428.529	17
+959	sugar-phosphatase	24	29	1143.9714	2173.083	4
+477	30S ribosomal protein S7	45	45	1142.948375	2943.461	8
+9	kinase/pyrophosphorylase	34	38	1140.0962285714286	2091.083	7
+625	putative sulfate exporter family transporter	34	35	1139.9815818181817	2752.447	11
+629	Flp pilus assembly complex ATPase component TadA	32	39	1138.2516727272725	2659.79	11
+188	central glycolytic genes regulator	40	40	1136.9095	3428.529	10
+471	amino acid permease	27	37	1135.0858181818182	3428.529	11
+818	D-alanyl-D-alanine carboxypeptidase	35	42	1133.7708444444445	2679.36	9
+676	mannose-6-phosphate isomerase, class I	36	39	1132.5973125	2752.447	8
+404	16S rRNA (cytidine(1402)-2'-O)-methyltransferase	45	45	1131.6635555555556	3428.529	9
+978	S1 domain-containing RNA-binding protein	35	35	1129.2998444444445	2752.447	9
+539	translation elongation factor Ts	45	45	1128.9267285714284	3428.529	7
+272	thiol peroxidase	39	39	1128.5050777777778	2752.447	9
+255	peroxiredoxin	30	33	1125.99424	2752.447	5
+559	helix-hairpin-helix domain-containing protein	45	45	1124.4589600000002	2730.077	5
+823	DUF951 domain-containing protein	39	39	1122.4095142857143	1469.169	7
+528	Holliday junction resolvase RuvX	44	44	1121.4170285714285	2752.447	7
+590	Holliday junction resolvase RecU	35	35	1119.8093500000002	2173.083	6
+542	bifunctional riboflavin kinase/FAD synthetase	45	45	1119.63521	3428.529	10
+858	HAMP domain-containing histidine kinase	25	25	1119.1034111111112	2183.574	9
+99	cell division protein SepF	45	45	1118.9114250000002	3428.529	8
+424	GTP cyclohydrolase I FolE	28	28	1117.5251375	3428.529	8
+1065	QueT transporter family protein	35	38	1115.9213	1692.984	4
+423	chaperonin GroEL	44	44	1115.9157714285714	3428.529	21
+558	ComE operon protein 2	40	41	1112.992814285714	3700.972	14
+24	argininosuccinate lyase	40	40	1111.4583625	3428.529	16
+499	molecular chaperone DnaK	45	45	1111.4287409090912	3428.529	22
+747	DNA repair protein RecO	40	40	1109.9866333333332	1737.612	6
+675	redox-sensing transcriptional repressor Rex	39	39	1109.4166272727273	2962.843	11
+946	ABC transporter ATP-binding protein	29	30	1108.8056000000001	2679.36	5
+844	NupC/NupG family nucleoside CNT transporter	24	28	1108.6507625	2659.79	8
+630	mechanosensitive ion channel family protein	35	40	1107.3237400000003	2183.574	10
+486	response regulator transcription factor	27	32	1106.8633399999999	1823.471	5
+641	TIGR01457 family HAD-type hydrolase	40	40	1105.4968	2943.461	8
+215	rod shape-determining protein RodA	38	41	1105.3113375	3428.529	8
+771	amidophosphoribosyltransferase	42	42	1102.7438619047618	2962.843	21
+288	DNA polymerase III subunit alpha	44	45	1099.891648	4576.539	25
+116	methionine--tRNA ligase	45	45	1098.6555400000002	3428.529	20
+796	pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha	31	31	1095.34462	2213.593	15
+729	tryptophan synthase subunit alpha	30	30	1095.0603545454546	2752.447	11
+380	single-stranded-DNA-specific exonuclease RecJ	45	45	1094.9002941176473	3428.529	17
+88	30S ribosomal protein S3	43	43	1094.1535217391304	2752.447	23
+547	serine O-acetyltransferase	31	31	1089.9087571428572	2752.447	7
+922	SDR family oxidoreductase	25	32	1084.8617545454547	2169.599	11
+427	ribosome biogenesis GTPase Der	45	45	1084.09855	2761.45	24
+140	dihydroneopterin aldolase	26	26	1083.6235727272726	2962.843	11
+580	anaerobic ribonucleoside triphosphate reductase	35	35	1082.8749083333335	2943.461	12
+1000	proline/glycine betaine ABC transporter permease	25	27	1082.8459714285714	2752.447	7
+962	ABC transporter permease	28	34	1082.44516	2091.083	5
+366	signal recognition particle protein	45	45	1082.2697	3428.529	11
+497	heat-inducible transcriptional repressor HrcA	45	45	1082.249111764706	3428.529	17
+581	YutD family protein	35	35	1081.0785500000002	1232.502	4
+458	type I DNA topoisomerase	45	45	1081.012742857143	2752.447	21
+787	CamS family sex pheromone protein	30	30	1080.2976333333336	2169.599	12
+31	dihydroorotate dehydrogenase	43	43	1079.4893111111112	2752.447	18
+48	uracil phosphoribosyltransferase	45	45	1079.3710428571428	3428.529	14
+956	glucose-1-phosphate adenylyltransferase	25	26	1078.4581888888888	2752.447	9
+331	thiol reductant ABC exporter subunit CydC	34	34	1078.423982352941	3428.529	17
+74	preprotein translocase subunit SecY	45	45	1077.2114647058825	2091.083	17
+770	phosphoribosylformylglycinamidine cyclo-ligase	42	42	1077.20516	2752.447	10
+325	ribulose-phosphate 3-epimerase	45	45	1075.481688888889	3039.246	9
+865	ammonium transporter	35	40	1073.0875624999999	2752.447	8
+466	transcription termination/antitermination protein NusG	44	44	1072.5361333333335	2752.447	6
+429	tRNA (guanosine(37)-N1)-methyltransferase TrmD	45	45	1072.4516	2606.229	7
+828	YueI family protein	26	30	1071.92805	2752.447	6
+718	4-hydroxy-tetrahydrodipicolinate reductase	43	44	1070.7931666666668	2752.447	15
+359	endonuclease III	40	40	1070.10378	3700.972	10
+275	oligoendopeptidase F	35	35	1069.2216611111114	2752.447	18
+561	tRNA 2-thiouridine(34) synthase MnmA	40	42	1065.1563538461537	2752.447	13
+361	Holliday junction branch migration protein RuvA	45	45	1065.0379333333333	2541.412	9
+175	FADH(2)-oxidizing methylenetetrahydrofolate--tRNA-(uracil(54)-C(5))-methyltransferase TrmFO	30	30	1062.2620363636363	3428.529	11
+924	riboflavin synthase	30	30	1058.1279666666667	1512.188	3
+244	cell division protein FtsZ	45	45	1057.6150894736843	2752.447	19
+953	glycogen synthase GlgA	25	26	1055.3816333333332	2752.447	6
+167	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	41	49	1054.483825	3428.529	12
+647	peptide ABC transporter substrate-binding protein	26	36	1054.4596125000003	3428.529	8
+904	glucose-1-phosphate thymidylyltransferase RfbA	24	26	1049.8428499999998	1283.82	4
+110	50S ribosomal protein L32	45	49	1048.6665222222223	2173.083	9
+861	reverse transcriptase-like protein	32	32	1048.2190583333334	3428.529	12
+568	S1 domain-containing post-transcriptional regulator GSP13	35	35	1045.6534333333332	2395.506	6
+50	ribonuclease HII	45	45	1045.5086545454544	3428.529	11
+352	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	45	45	1045.3647947368424	3428.529	19
+658	MFS transporter	31	32	1045.0981	2659.79	7
+721	branched-chain amino acid aminotransferase	35	37	1041.1080166666666	2752.447	12
+164	2-oxo acid dehydrogenase subunit E2	31	31	1040.7737411764706	2752.447	17
+121	PIN/TRAM domain-containing protein	35	35	1039.1551545454547	2752.447	11
+98	YggT family protein	35	35	1038.6087	1737.612	4
+698	insulinase family protein	35	35	1038.528681818182	2779.551	11
+535	YneF family protein	35	35	1036.8353000000002	1238.199	4
+441	MBL fold metallo-hydrolase	40	40	1034.294775	1733.503	4
+237	transcription antitermination factor NusB	45	45	1034.2368636363635	2752.447	11
+1080	phosphomevalonate kinase	25	25	1032.8059666666666	2091.083	6
+618	cell division protein FtsQ/DivIB	35	35	1032.7331333333334	1430.8	3
+587	ribosome biogenesis GTPase YqeH	35	35	1029.6229187499998	3428.529	16
+357	CCA tRNA nucleotidyltransferase	39	39	1029.1906692307691	3428.529	13
+204	bifunctional oligoribonuclease/PAP phosphatase NrnA	45	54	1026.812176923077	3661.11	13
+788	DUF1292 domain-containing protein	29	29	1025.4959333333334	1212.784	3
+96	NYN domain-containing protein	35	35	1023.2999181818182	2183.574	11
+860	YitT family protein	27	30	1021.53485	2418.86	8
+616	holo-ACP synthase	43	43	1020.9138799999998	1573.722	5
+426	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	34	34	1020.5315555555555	3428.529	18
+326	thiamine diphosphokinase	45	45	1020.0592166666667	2164.383	6
+901	rhomboid family intramembrane serine protease	31	31	1019.5946444444445	1469.169	9
+462	preprotein translocase subunit SecA	45	45	1019.0140208333332	2524.967	24
+983	diaminopimelate epimerase	33	33	1015.1784384615385	2091.083	13
+281	hypoxanthine phosphoribosyltransferase	38	38	1013.9312400000001	1493.421	5
+446	MATE family efflux transporter	27	29	1012.837681818182	2752.447	11
+461	50S ribosomal protein L33	45	53	1011.957075	1820.585	4
+65	ribonuclease P protein component	45	45	1010.50726	2779.551	10
+445	Na+/H+ antiporter NhaC	24	28	1010.1571125	2752.447	8
+1002	DUF5590 domain-containing protein	27	27	1009.561575	1342.635	4
+143	S4 domain-containing protein YaaA	35	35	1009.0390800000001	1323.054	5
+564	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	42	42	1008.6864090909093	2779.551	11
+530	dihydrofolate reductase	37	37	1008.66813	1515.735	10
+809	ACP S-malonyltransferase	39	40	1007.4655846153845	2183.574	13
+61	threonine ammonia-lyase IlvA	27	32	1007.3187099999999	2562.13	10
+777	5-(carboxyamino)imidazole ribonucleotide mutase	42	42	1007.0165666666667	3428.529	9
+103	zinc ABC transporter substrate-binding protein	24	24	997.68145	1915.432	4
+169	hydroxyethylthiazole kinase	30	35	996.6182857142858	2091.083	7
+443	response regulator YycF	33	33	996.4693181818183	2183.574	11
+614	acyl-CoA thioesterase	27	27	994.2638800000001	1280.855	5
+1038	1-deoxy-D-xylulose-5-phosphate reductoisomerase	25	25	990.8233166666665	1515.735	6
+223	16S rRNA (guanine(966)-N(2))-methyltransferase RsmD	45	45	988.4982833333333	2173.083	12
+523	YigZ family protein	45	45	985.3784600000001	2752.447	10
+168	thiaminase II	24	28	984.5738181818182	2779.551	11
+759	glycoside hydrolase family 65 protein	30	37	983.973510526316	3333.338	19
+778	DUF1273 domain-containing protein	30	30	983.55185	1733.503	6
+615	pur operon repressor	43	43	983.0333916666667	2752.447	12
+161	xanthine phosphoribosyltransferase	39	40	982.1984749999999	1232.502	4
+113	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB	44	44	981.9921533333334	2761.45	15
+406	tRNA1(Val) (adenine(37)-N6)-methyltransferase	45	45	981.0001470588235	2091.083	17
+91	50S ribosomal protein L2	45	45	980.8116	980.8116	3
+522	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH	45	45	979.2404888888891	1743.107	9
+862	MFS transporter	30	36	978.8737	1515.735	6
+1048	flagellar motor switch protein FliG	25	25	976.1137875	1202.592	8
+722	transcriptional regulator ArgR	35	47	974.7289666666667	2752.447	12
+1021	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	24	31	968.89164	1323.054	5
+214	replication-associated recombination protein A	44	44	967.483242105263	2659.79	19
+902	peroxide-responsive transcriptional repressor PerR	26	26	966.3714400000001	1090.564	5
+837	DNA helicase RecQ	35	35	964.4108	2752.447	17
+75	50S ribosomal protein L15	45	45	962.6752428571427	1515.735	7
+245	MFS transporter	28	32	961.375175	1356.212	8
+933	metalloregulator ArsR/SmtB family transcription factor	24	25	959.6069	959.6069	1
+863	UPF0223 family protein	34	34	958.4537	1033.331	2
+489	DUF402 domain-containing protein	35	35	947.19532	1201.671	10
+106	NCS2 family permease	42	50	940.2221666666668	1430.8	6
+1078	hydroxymethylglutaryl-CoA reductase, degradative	25	25	939.9897636363636	1737.612	11
+218	tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA	45	45	939.69374	1323.054	15
+431	signal peptidase I	39	59	932.26882	1354.114	10
+893	PH domain-containing protein	27	27	932.2453399999999	1820.585	15
+374	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	45	45	932.194	980.8116	2
+1063	aldose 1-epimerase family protein	27	28	929.9127714285714	1280.855	7
+524	DegV family protein	36	39	928.51535	2183.574	10
+997	MBL fold metallo-hydrolase	32	32	927.4394666666667	1114.919	3
+899	2-dehydropantoate 2-reductase	25	33	924.9455	1323.054	7
+413	stage V sporulation protein E	43	48	922.9197588235294	2091.083	17
+134	metalloregulator ArsR/SmtB family transcription factor	39	48	910.4613642857141	2962.843	14
+265	transcriptional repressor	36	36	908.3955	908.3955	1
+1039	protein arginine kinase	24	24	907.5804	908.3955	5
+846	GlsB/YeaQ/YmgE family stress response membrane protein	30	36	904.32	904.32	1
+700	phosphate ABC transporter substrate-binding protein	33	54	902.3083909090909	1733.503	11
+1050	flagellar hook-basal body complex protein FliE	25	25	901.68595	1301.77	4
+122	DNA repair protein RadA	45	45	900.54142	1469.169	15
+1047	flagellar motor switch protein FliM	25	25	899.1341000000001	904.32	4
+210	50S ribosomal protein L31	45	50	897.9710083333334	2183.574	12
+189	50S ribosomal protein L19	45	45	897.8510466666667	2512.709	15
+125	amino acid ABC transporter permease	34	35	895.2029666666666	974.177	9
+16	phosphate acetyltransferase	39	39	893.0560555555555	980.8116	9
+152	KH domain-containing protein	35	35	889.7811750000001	908.3955	4
+318	30S ribosomal protein S16	45	45	889.7811750000001	908.3955	4
+453	MerR family transcriptional regulator	31	31	889.6515333333333	980.8116	3
+820	HAMP domain-containing histidine kinase	32	33	889.4907444444445	1323.054	9
+817	GRP family sugar transporter	25	28	888.5402200000001	908.3955	5
+25	ammonia-dependent NAD(+) synthetase	36	36	887.7251200000001	904.32	10
+180	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase	45	45	886.5565555555555	1143.351	9
+232	acyl-CoA thioesterase	30	35	885.8328538461539	1515.735	13
+343	isoprenyl transferase	45	45	885.6805166666667	980.8116	6
+758	GatB/YqeY domain-containing protein	30	30	884.8058166666666	980.8116	6
+224	pantetheine-phosphate adenylyltransferase	45	45	884.4765375000001	1057.108	8
+94	50S ribosomal protein L3	45	45	883.5764	883.5764	2
+955	DUF554 domain-containing protein	27	27	883.5764	883.5764	1
+553	peptide-methionine (S)-S-oxide reductase MsrA	31	40	883.5764	883.5764	1
+996	GntR family transcriptional regulator	30	36	883.5764	883.5764	1
+47	F0F1 ATP synthase subunit A	44	44	883.5764	883.5764	1
+292	30S ribosomal protein S6	45	45	881.32125	980.8116	6
+503	BMP family protein	34	41	880.8141666666666	1737.612	6
+200	50S ribosomal protein L27	45	46	878.8522375	915.9191	8
+89	50S ribosomal protein L22	45	45	877.22578	1737.612	20
+730	aminodeoxychorismate/anthranilate synthase component II	28	45	877.0628399999999	1323.054	5
+1049	flagellar M-ring protein FliF	25	25	873.6864857142857	980.8116	7
+236	Asp23/Gls24 family envelope stress response protein	45	46	872.5117571428572	980.8116	7
+984	MgtC/SapB family protein	33	37	871.8212	1493.421	5
+834	TrkA family potassium uptake protein	27	27	868.8982333333333	1692.984	6
+699	response regulator transcription factor	37	38	866.5719076923076	1122.597	13
+574	amino acid permease	32	46	866.0186666666666	904.32	9
+575	threonylcarbamoyl-AMP synthase	45	45	864.2788333333333	1737.612	12
+485	response regulator transcription factor	24	26	863.97428	883.5764	5
+909	Rrf2 family transcriptional regulator	28	28	863.2270000000001	948.8341	4
+192	ABC transporter permease	33	33	862.3642363636365	1001.01	11
+877	PspC domain-containing protein	28	36	861.1380666666668	908.3955	3
+921	glycosyltransferase family 2 protein	34	48	856.9130333333334	1228.72	9
+455	rRNA pseudouridine synthase	32	32	856.1638999999999	908.3955	7
+396	2,3-diphosphoglycerate-dependent phosphoglycerate mutase	26	26	852.6183142857143	883.5764	7
+849	DedA family protein	31	34	851.4169400000001	1034.114	5
+711	PH domain-containing protein	25	28	850.9570000000001	980.8116	7
+678	PTS system mannose/fructose/sorbose family transporter subunit IID	25	25	850.238425	928.3764	4
+1022	permease-like cell division protein FtsX	28	28	849.782	915.9191	4
+1019	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	30	30	848.176975	920.7419	4
+784	YlbG family protein	35	35	846.10925	908.3955	2
+932	membrane protein insertion efficiency factor YidD	39	39	844.592	883.5764	3
+76	50S ribosomal protein L30	40	40	841.868925	883.5764	8
+599	UDP-N-acetylmuramate dehydrogenase	45	46	841.1994333333333	1197.99	9
+440	Cys-tRNA(Pro) deacylase	36	36	841.1185499999999	1030.205	4
+512	AAA family ATPase	45	45	840.82819	961.0532	10
+90	30S ribosomal protein S19	45	45	840.0643714285716	883.5764	7
+684	Veg family protein	40	40	837.50935	908.3955	2
+991	glycerol-3-phosphate dehydrogenase/oxidase	25	28	834.8154333333333	980.8116	15
+937	YggS family pyridoxal phosphate-dependent enzyme	28	28	833.0093	833.0093	1
+464	flavodoxin	30	34	832.1294833333333	883.5764	6
+713	magnesium transporter	25	30	826.0214714285714	1201.671	7
+540	30S ribosomal protein S2	45	45	825.3211222222221	908.3955	9
+418	thioredoxin	43	46	825.0998	883.5764	2
+980	undecaprenyl/decaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase	32	32	824.696042857143	980.8116	7
+156	YegS/Rv2252/BmrU family lipid kinase	28	28	824.477676923077	1116.621	13
+829	rod shape-determining protein	40	40	824.3778583333334	1456.636	12
+77	30S ribosomal protein S5	45	45	824.3356666666667	883.5764	9
+249	penicillin-binding protein	44	49	822.0134076923077	948.8341	13
+635	CrcB family protein	34	43	820.1370800000001	980.8116	5
+708	YslB family protein	26	26	819.7149400000001	904.32	5
+64	50S ribosomal protein L34	44	44	816.4412214285713	948.8341	14
+529	IreB family regulatory phosphoprotein	45	45	813.8806333333333	908.3955	3
+302	50S ribosomal protein L10	45	45	812.5221333333334	904.32	3
+710	large conductance mechanosensitive channel protein MscL	37	43	810.4960249999999	907.7149	4
+906	betaine/proline/choline family ABC transporter ATP-binding protein	27	30	807.2904777777778	1117.472	9
+835	N-acetyl-gamma-glutamyl-phosphate reductase	27	27	806.0242	883.5764	3
+430	ribosome maturation factor RimM	45	45	805.2975399999999	908.3955	5
+20	helix-turn-helix transcriptional regulator	26	34	801.0341000000001	883.5764	2
+830	PadR family transcriptional regulator	29	34	800.9342	883.5764	3
+1057	50S ribosomal protein L25/general stress protein Ctc	24	25	800.16145	883.5764	4
+1027	D-amino-acid transaminase	25	26	800.0937333333333	904.32	3
+474	NCS2 family nucleobase:cation symporter	45	45	797.8817	883.5764	2
+198	50S ribosomal protein L21	45	45	797.7016249999998	915.9191	12
+467	preprotein translocase subunit SecE	40	40	796.2608	883.5764	3
+448	L-lactate dehydrogenase	36	37	795.5181999999999	904.32	10
+995	septum site-determining protein MinC	35	35	795.2682444444446	1116.621	9
+28	EamA family transporter RarD	24	24	793.1792	883.5764	3
+936	cation diffusion facilitator family transporter	29	30	791.8528333333334	883.5764	3
+1033	molybdenum cofactor guanylyltransferase	25	25	789.3943333333333	883.5764	3
+1070	fructose-bisphosphatase class III	28	28	785.5393222222222	915.9191	9
+199	ribosomal-processing cysteine protease Prp	39	39	783.823	783.823	2
+965	glycine cleavage system protein GcvH	30	30	783.823	783.823	1
+514	O-methyltransferase	30	30	783.823	783.823	1
+742	5-formyltetrahydrofolate cyclo-ligase	44	50	783.4441	904.32	7
+541	30S ribosomal protein S15	45	45	783.1482	948.8341	4
+138	30S ribosomal protein S21	45	45	782.87652	980.8116	5
+881	Wzz/FepE/Etk N-terminal domain-containing protein	33	38	782.7714666666667	904.32	3
+938	CtsR family transcriptional regulator	34	34	775.53555	883.5764	4
+734	YozE family protein	30	30	774.6887333333334	790.8198	3
+986	HesB/YadR/YfhF family protein	25	25	771.742175	883.5764	4
+13	DNA starvation/stationary phase protection protein	32	43	769.1492428571429	928.3764	7
+638	hotdog fold thioesterase	25	25	766.6232	766.6232	1
+1066	ACT domain-containing protein	26	26	766.6232	766.6232	1
+115	Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC	44	44	765.902	980.8116	9
+490	NAD kinase	43	43	765.8846599999999	915.9191	5
+73	adenylate kinase	45	45	764.5437000000001	1138.993	6
+660	50S ribosomal protein L33	30	30	763.91305	783.823	4
+150	class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI	24	28	762.0998	883.5764	5
+732	SGNH/GDSL hydrolase family protein	29	29	752.3044666666666	908.3955	6
+976	type Z 30S ribosomal protein S14	35	37	747.2952285714285	785.5658	7
+741	N-acetylmuramoyl-L-alanine amidase	24	32	747.0878333333334	766.6232	3
+685	nucleoside-diphosphate kinase	27	27	745.596375	908.3955	4
+263	A24 family peptidase	30	31	721.09536	921.4331	5
+1041	flagellar biosynthesis protein FlhF	25	25	708.7715000000001	766.6232	2
+1025	AbrB/MazE/SpoVT family DNA-binding domain-containing protein	25	25	704.8338	783.823	3
+451	peptidylprolyl isomerase	39	45	703.4377000000001	783.823	4
+1040	UvrB/UvrC motif-containing protein	24	24	701.7614	752.603	2
+71	50S ribosomal protein L36	45	45	666.62312	883.5764	5
+766	OFA family MFS transporter	24	27	561.1757	561.1757	1
+1036	RNA chaperone Hfq	25	25	546.8554	546.8554	1
+179	glycerol-3-phosphate 1-O-acyltransferase PlsY	42	42	535.9929	535.9929	1
+108	YlbF family regulator	41	41		0.0	0
+176	GTP-sensing pleiotropic transcriptional regulator CodY	30	30		0.0	0
+301	50S ribosomal protein L7/L12	45	45		0.0	0
+480	prepilin-type N-terminal cleavage/methylation domain-containing protein	27	27		0.0	0
+517	transcription elongation factor GreA	45	45		0.0	0
+706	D-alanine--poly(phosphoribitol) ligase subunit 2	26	28		0.0	0
+774	phosphoribosylformylglycinamidine synthase subunit PurS	35	35		0.0	0
+816	winged helix-turn-helix transcriptional regulator	28	38		0.0	0
+1044	flagellar biosynthesis protein FliQ	25	25		0.0	0
+1076	ADP-ribose-binding protein	25	25		0.0	0
