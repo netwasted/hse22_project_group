@@ -26,3 +26,5 @@ https://colab.research.google.com/drive/14r1K0StkJTWTxGc6LB_NWUfBgd3jGq-f?usp=sh
 https://docs.google.com/presentation/d/1Jb9adsfsqNMcimhFCPsAW6d_DxwwjtdB/edit?usp=sharing&ouid=112750751013600817181&rtpof=true&sd=true
 
 ### Ссылка на таблицу со статистикой по всем кластерам
+
+https://github.com/netwasted/hse22_project_group/raw/main/clusters/myproject.proteinortho.txt
