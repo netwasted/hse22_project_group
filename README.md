@@ -27,4 +27,6 @@ https://docs.google.com/presentation/d/1Jb9adsfsqNMcimhFCPsAW6d_DxwwjtdB/edit?us
 
 ### Ссылка на таблицу со статистикой по всем кластерам
 
-https://github.com/netwasted/hse22_project_group/raw/main/clusters/myproject.proteinortho.txt
+Выдача Protein Ortho: https://github.com/netwasted/hse22_project_group/raw/main/clusters/myproject.proteinortho.txt
+
+Кластеры с функциями и статистикой по Z-DNA: https://github.com/netwasted/hse22_project_group/blob/main/clusters/cluster_stat.tsv
