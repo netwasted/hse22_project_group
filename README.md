@@ -4,7 +4,7 @@
 
 ### Ссылка на репозиторий
 
-https://colab.research.google.com/drive/14r1K0StkJTWTxGc6LB_NWUfBgd3jGq-f?usp=sharing
+https://colab.research.google.com/drive/1bpPvG_dgn_OsEf_6L0iO_OFOGkiyr4-m?usp=sharing
 
 ### Список участников группы
 
